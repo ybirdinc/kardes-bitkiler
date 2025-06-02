@@ -7,7 +7,9 @@ body {
   font-variation-settings: "wdth" 100;
 }
 
-h1 {
+h1,
+h2,
+p {
   text-align: center;
 }
 
@@ -28,6 +30,10 @@ h1 {
 .o,
 .xo {
   text-align: center;
+}
+
+span.x, span.o, span.xo {
+  padding: 0 6px;
 }
 
 table {
@@ -56,8 +62,7 @@ table thead {
 table th {
   background-color: #f4f4f4;
 }
-table tr td:first-child,
-table tr td:nth-child(2) {
+table tr td:first-child {
   font-weight: bold;
   position: sticky;
   left: 0;
