@@ -17,7 +17,6 @@ Bu proje, farklı bitkilerin bir arada ekildiğinde birbirleriyle olan olumlu ve
 ## Dosya Yapısı
 - `KardesBitkilerTablosu.html`: Ana HTML dosyası
 - `assets/styles/`: Stil dosyaları (SCSS ve derlenmiş CSS)
-- `assets/js/`: JavaScript dosyaları (arama ve filtreleme işlevi)
 
 ## Amaç
 Kardeş bitkiler tablosu, daha verimli ve sağlıklı bir bahçe oluşturmak isteyenler için pratik bir rehberdir. Bitkiler arası uyumu kolayca görebilir, ekim planınızı buna göre şekillendirebilirsiniz.
