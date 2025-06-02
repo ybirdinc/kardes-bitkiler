@@ -15,7 +15,7 @@ Bu proje, farklı bitkilerin bir arada ekildiğinde birbirleriyle olan olumlu ve
 3. Üstteki arama kutusunu kullanarak istediğiniz bitkiyi hızlıca bulun.
 
 ## Dosya Yapısı
-- `KardesBitkilerTablosu.html`: Ana HTML dosyası
+- `index.html`: Ana HTML dosyası
 - `assets/styles/`: Stil dosyaları (SCSS ve derlenmiş CSS)
 
 ## Amaç
