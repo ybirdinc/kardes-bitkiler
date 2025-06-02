@@ -11,9 +11,6 @@
 
 <body>
   <h1>Kardeş Bitkiler</h1>
-  <div class="search-container">
-    <input type="text" id="searchInput" placeholder="Bitki ara...">
-  </div>
   <table id="kardesBitkilerTablosu" class="display">
     <thead>
       <tr>
@@ -5496,7 +5493,10 @@
   <script defer>
     $(document).ready(function () {
       $('#kardesBitkilerTablosu').dataTable({
-        'pageLength': 50
+        'pageLength': 50,
+        language: {
+          url: 'https://cdn.datatables.net/plug-ins/2.3.1/i18n/tr.json',
+        },
       });
     });
   </script>
