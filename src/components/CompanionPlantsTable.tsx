@@ -73,46 +73,60 @@ export default function CompanionPlantsDataTable() {
   });
 
   return (
-    <div className="overflow-x-auto bg-white rounded-xl shadow-lg p-4">
+    <div className="p-4 bg-white rounded-xl shadow-lg">
       <input
         type="text"
         placeholder="Tabloda ara..."
         value={globalFilter ?? ""}
         onChange={e => setGlobalFilter(e.target.value)}
-        className="mb-4 px-3 py-2 border rounded w-full max-w-xs"
+        className="mb-4 px-3 py-2 border rounded-lg w-full max-w-xs focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-green-400 transition-colors"
       />
-      <table className="min-w-full border">
-        <thead>
-          {table.getHeaderGroups().map((headerGroup) => (
-            <tr key={headerGroup.id}>
-              {headerGroup.headers.map((header) => (
-                <th
-                  key={header.id}
-                  className="px-2 py-2 bg-gray-100 text-xs text-gray-700 border cursor-pointer select-none"
-                  onClick={header.column.getToggleSortingHandler()}
-                >
-                  {flexRender(header.column.columnDef.header, header.getContext())}
-                  {{
-                    asc: " ▲",
-                    desc: " ▼",
-                  }[header.column.getIsSorted() as string] ?? ""}
-                </th>
-              ))}
-            </tr>
-          ))}
-        </thead>
-        <tbody>
-          {table.getRowModel().rows.map((row) => (
-            <tr key={row.id}>
-              {row.getVisibleCells().map((cell) => (
-                <td key={cell.id} className="px-2 py-2 text-center border">
-                  {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                </td>
-              ))}
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      <div className="overflow-x-auto">
+        <table className="min-w-full border-collapse table-auto rounded-xl overflow-hidden">
+          <thead className="bg-gray-50">
+            {table.getHeaderGroups().map((headerGroup) => (
+              <tr key={headerGroup.id}>
+                {headerGroup.headers.map((header, i) => (
+                  <th
+                    key={header.id}
+                    className={
+                      `px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider border-b border-gray-200 ` +
+                      (i === 0 ? "sticky left-0 z-10 bg-gray-50" : "") +
+                      " cursor-pointer select-none text-gray-700"
+                    }
+                    onClick={header.column.getToggleSortingHandler()}
+                  >
+                    {flexRender(header.column.columnDef.header, header.getContext())}
+                    {{ asc: " ▲", desc: " ▼" }[header.column.getIsSorted() as string] ?? ""}
+                  </th>
+                ))}
+              </tr>
+            ))}
+          </thead>
+          <tbody className="bg-white divide-y divide-gray-100">
+            {table.getRowModel().rows.map((row) => (
+              <tr key={row.id} className="hover:bg-green-50 transition-colors">
+                {row.getVisibleCells().map((cell, i) => {
+                  // Renkli hücreler için
+                  const value = cell.getValue();
+                  let cellClass = "px-4 py-3 text-center border-b border-gray-100 ";
+                  if (value === "✅") cellClass += "bg-green-50 text-green-800 font-bold";
+                  else if (value === "❌") cellClass += "bg-red-50 text-red-800 font-bold";
+                  else if (value === "⚠️") cellClass += "bg-amber-50 text-amber-800 font-bold";
+                  else if (value === "⬛") cellClass += "bg-blue-50 text-blue-800 font-bold";
+                  else cellClass += "text-gray-400";
+                  if (i === 0) cellClass += " sticky left-0 z-10 bg-white text-left font-medium text-gray-900 whitespace-nowrap";
+                  return (
+                    <td key={cell.id} className={cellClass} title={cell.column.id !== 'plant' ? `${row.original.plant} - ${cell.column.id}` : undefined}>
+                      {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                    </td>
+                  );
+                })}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
       {/* Lejant */}
       <div className="mt-4 flex flex-wrap gap-4">
         <div className="flex items-center gap-2">
@@ -128,8 +142,12 @@ export default function CompanionPlantsDataTable() {
           <span className="text-sm text-gray-600">Karmaşık</span>
         </div>
         <div className="flex items-center gap-2">
-          <span className="inline-block w-6 h-6 bg-gray-100 text-gray-800 text-center rounded">−</span>
-          <span className="text-sm text-gray-600">İlişki Yok</span>
+          <span className="inline-block w-6 h-6 bg-blue-100 text-blue-800 text-center rounded">⬛</span>
+          <span className="text-sm text-gray-600">Kendisi</span>
+        </div>
+        <div className="flex items-center gap-2">
+          <span className="inline-block w-6 h-6 bg-gray-50 text-gray-400 text-center rounded">−</span>
+          <span className="text-sm text-gray-600">İlişkisiz</span>
         </div>
       </div>
     </div>
