@@ -74,13 +74,25 @@ export default function CompanionPlantsDataTable() {
 
   return (
     <div className="p-4 bg-white rounded-xl shadow-lg">
-      <input
-        type="text"
-        placeholder="Tabloda ara..."
-        value={globalFilter ?? ""}
-        onChange={e => setGlobalFilter(e.target.value)}
-        className="mb-4 px-3 py-2 border rounded-lg w-full max-w-xs focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-green-400 transition-colors"
-      />
+      <div className="flex items-center gap-2 mb-4">
+        <input
+          type="text"
+          placeholder="Tabloda ara..."
+          value={globalFilter ?? ""}
+          onChange={e => setGlobalFilter(e.target.value)}
+          className="px-3 py-2 border rounded-lg w-full max-w-xs focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-green-400 transition-colors"
+        />
+        {globalFilter && (
+          <button
+            onClick={() => setGlobalFilter("")}
+            className="px-3 py-2 bg-gray-100 text-gray-700 rounded-lg border border-gray-200 hover:bg-gray-200 transition-colors"
+            aria-label="Aramayı temizle"
+            type="button"
+          >
+            Temizle
+          </button>
+        )}
+      </div>
       <div className="overflow-x-auto">
         <table className="min-w-full border-collapse table-auto rounded-xl overflow-hidden">
           <thead className="bg-gray-50">
