@@ -126,7 +126,7 @@ const CompanionPlantsGraph = () => {
               </div>
               <div className="flex items-center gap-3">
                 <div className="w-4 h-4 bg-amber-500 rounded-full"></div>
-                <span className="text-sm text-gray-700">Karmaşık İlişki</span>
+                <span className="text-sm text-gray-700">Çelişkili sonuçlar</span>
               </div>
               <div className="flex items-center gap-3">
                 <div className="w-4 h-4 bg-gray-400 rounded-full"></div>
@@ -246,11 +246,11 @@ const CompanionPlantsGraph = () => {
                   </div>
                 </div>
 
-                {/* Karmaşık İlişkiler */}
+                {/* Çelişkili SOnuçlar */}
                 <div>
                   <h4 className="text-lg font-medium text-amber-700 mb-3 flex items-center gap-2">
                     <div className="w-3 h-3 bg-amber-500 rounded-full"></div>
-                    Karmaşık İlişkiler ({stats.complex})
+                    Çelişkili Sonuçlar ({stats.complex})
                   </h4>
                   <div className="space-y-2 max-h-40 overflow-y-auto">
                     {getPlantRelations(selectedPlant).complex.map((plant) => (

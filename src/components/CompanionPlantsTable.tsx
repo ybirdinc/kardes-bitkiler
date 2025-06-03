@@ -151,7 +151,7 @@ export default function CompanionPlantsDataTable() {
         </div>
         <div className="flex items-center gap-2">
           <span className="inline-block w-6 h-6 bg-amber-100 text-amber-800 text-center rounded">⚠️</span>
-          <span className="text-sm text-gray-600">Karmaşık</span>
+          <span className="text-sm text-gray-600">Çelişkili Sonuçlar</span>
         </div>
         <div className="flex items-center gap-2">
           <span className="inline-block w-6 h-6 bg-blue-100 text-blue-800 text-center rounded">⬛</span>
