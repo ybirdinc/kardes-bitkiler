@@ -1,25 +1,45 @@
-# kardes-bitkiler
+# 🌱 Kardeş Bitkiler İnteraktif Grafik
 
-Bu proje, farklı bitkilerin bir arada ekildiğinde birbirleriyle olan olumlu ve olumsuz etkileşimlerini gösteren bir tablo sunar. Özellikle bahçecilik ve permakültür ile ilgilenenler için, hangi bitkilerin "kardeş bitkiler" olarak birlikte ekilebileceğini ve hangilerinin bir arada ekilmemesi gerektiğini görsel olarak anlamayı kolaylaştırır.
+Bu proje, bitkilerin birbiriyle olan uyumluluğunu interaktif bir şekilde gösteren bir web uygulamasıdır. Next.js ve TypeScript kullanılarak geliştirilmiştir.
 
-## Özellikler
-- Kapsamlı kardeş bitkiler tablosu
-- Bitkiler arası olumlu/olumsuz etkileşimlerin görsel olarak gösterimi
-- Modern ve okunabilir arayüz
-- Hızlı bitki arama özelliği
-- Responsive (mobil uyumlu) tasarım
+## 🚀 Özellikler
 
-## Kullanım
-1. Projeyi bir web sunucusunda veya doğrudan tarayıcıda açın.
-2. Ana sayfada tabloyu görüntüleyin.
-3. Üstteki arama kutusunu kullanarak istediğiniz bitkiyi hızlıca bulun.
+- İnteraktif bitki ilişkileri haritası
+- Bitki arama ve filtreleme
+- Bitkiler arası ilişkilerin detaylı görüntülenmesi:
+  - ✅ Uyumlu bitkiler
+  - ❌ Uyumsuz bitkiler
+  - ⚠️ Karmaşık ilişkiler
+- Modern ve duyarlı (responsive) tasarım
+- Anlık görsel geri bildirim
 
-## Dosya Yapısı
-- `index.html`: Ana HTML dosyası
-- `assets/styles/`: Stil dosyaları (SCSS ve derlenmiş CSS)
+## 🛠️ Teknolojiler
 
-## Amaç
-Kardeş bitkiler tablosu, daha verimli ve sağlıklı bir bahçe oluşturmak isteyenler için pratik bir rehberdir. Bitkiler arası uyumu kolayca görebilir, ekim planınızı buna göre şekillendirebilirsiniz.
+- [Next.js](https://nextjs.org) - React framework
+- TypeScript - Tip güvenli geliştirme
+- [Tailwind CSS](https://tailwindcss.com) - Stil kütüphanesi
+- [lucide-react](https://lucide.dev) - İkon kütüphanesi
 
----
-Proje 2025 yılında güncellenmiştir.
+## 🚀 Başlangıç
+
+Projeyi lokal ortamınızda çalıştırmak için:
+
+```bash
+# Bağımlılıkları yükleyin
+npm install
+
+# Geliştirme sunucusunu başlatın
+npm run dev
+```
+
+[http://localhost:3000](http://localhost:3000) adresini tarayıcınızda açarak uygulamayı görüntüleyebilirsiniz.
+
+## 🎨 Kullanım
+
+1. Ana sayfada tüm bitkileri görebilirsiniz
+2. Arama kutusunu kullanarak istediğiniz bitkiyi bulabilirsiniz
+3. Bir bitkiye tıkladığınızda:
+   - Bitkinin uyumlu olduğu diğer bitkiler
+   - Uyumsuz olduğu bitkiler
+   - Karmaşık ilişkide olduğu bitkiler görüntülenir
+4. Her ilişki türü farklı renklerle gösterilir

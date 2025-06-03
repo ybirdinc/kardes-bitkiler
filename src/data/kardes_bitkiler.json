@@ -1,0 +1,1611 @@
+{
+  "Adaçayı": {
+    "unfavorable": [
+      "Kabak"
+    ],
+    "favorable": [
+      "Bezelye",
+      "Biberiye",
+      "Brokoli",
+      "Brüksel Lahanası",
+      "Civan perçemi",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Lahana",
+      "Petunia",
+      "Rezene",
+      "Tagetes"
+    ],
+    "complex": [
+      "Havuç"
+    ]
+  },
+  "Ahududu": {
+    "unfavorable": [
+      "Patates"
+    ],
+    "favorable": [
+      "Civan perçemi",
+      "Menekşe (Hercai)",
+      "Petunia",
+      "Sarımsak",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Ayçiçeği": {
+    "unfavorable": [
+      "Fasulye (Runner)",
+      "Patates"
+    ],
+    "favorable": [
+      "Civan perçemi",
+      "Kabak",
+      "Petunia",
+      "Sweetcorn",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Bezelye": {
+    "unfavorable": [
+      "Domates",
+      "Karnabahar",
+      "Patates",
+      "Pırasa",
+      "Sarımsak",
+      "Soğan"
+    ],
+    "favorable": [
+      "Adaçayı",
+      "Civan perçemi",
+      "Dereotu",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Havuç",
+      "Kabak",
+      "Lahana",
+      "Marul",
+      "Pancar",
+      "Petunia",
+      "Rezene",
+      "Salatalık",
+      "Sweetcorn",
+      "Tagetes",
+      "Turp",
+      "Yer Lahanası"
+    ],
+    "complex": [
+      "Fasulye (Runner)"
+    ]
+  },
+  "Biber": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Domates",
+      "Fesleğen",
+      "Frenk Soğanı",
+      "Havuç",
+      "Petunia",
+      "Pırasa",
+      "Soğan",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Biberiye": {
+    "unfavorable": [
+      "Brüksel Lahanası",
+      "Domates"
+    ],
+    "favorable": [
+      "Adaçayı",
+      "Brokoli",
+      "Civan perçemi",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Havuç",
+      "Lahana",
+      "Petunia",
+      "Sarımsak",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Brokoli": {
+    "unfavorable": [
+      "Çilek",
+      "Domates",
+      "Mercanköşk (Oregano)"
+    ],
+    "favorable": [
+      "Adaçayı",
+      "Biberiye",
+      "Civan perçemi",
+      "Dereotu",
+      "Kereviz",
+      "Papatya",
+      "Petunia",
+      "Su teresi (Nasturtium)",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Brüksel Lahanası": {
+    "unfavorable": [
+      "Biberiye",
+      "Çilek",
+      "Domates",
+      "Su teresi (Nasturtium)"
+    ],
+    "favorable": [
+      "Adaçayı",
+      "Civan perçemi",
+      "Çördük",
+      "Kekik",
+      "Patates",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Buğday": {
+    "unfavorable": [
+      "Kereviz",
+      "Sarımsak"
+    ],
+    "favorable": [
+      "Civan perçemi",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Çayır marulu": {
+    "unfavorable": [],
+    "favorable": [
+      "Çilek",
+      "Civan perçemi",
+      "Fasulye (Runner)",
+      "Lahana",
+      "Petunia",
+      "Pırasa",
+      "Ravent (Rhubarb)",
+      "Soğan",
+      "Tagetes",
+      "Yer Lahanası"
+    ],
+    "complex": []
+  },
+  "Çilek": {
+    "unfavorable": [
+      "Brokoli",
+      "Brüksel Lahanası",
+      "Karnabahar"
+    ],
+    "favorable": [
+      "Çayır marulu",
+      "Civan perçemi",
+      "Fasulye (Frans)",
+      "Hodan",
+      "Ispanak",
+      "Marul",
+      "Maydonoz",
+      "Pancar kökü",
+      "Petunia",
+      "Pırasa",
+      "Sarımsak",
+      "Soğan",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": [
+      "Lahana"
+    ]
+  },
+  "Civan perçemi": {
+    "unfavorable": [],
+    "favorable": [
+      "Adaçayı",
+      "Ahududu",
+      "Ayçiçeği",
+      "Bezelye",
+      "Biber",
+      "Biberiye",
+      "Brokoli",
+      "Brüksel Lahanası",
+      "Buğday",
+      "Çayır marulu",
+      "Çilek",
+      "Çördük",
+      "Dereotu",
+      "Domates",
+      "Enginar",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Fesleğen",
+      "Frenk Maydonozu",
+      "Frenk Salat (Hindiba)",
+      "Frenk Soğanı",
+      "Gül",
+      "Havuç",
+      "Hindiba (Forse)",
+      "Hodan",
+      "Ispanak",
+      "Kabak",
+      "Kabak (Sakız)",
+      "Karnabahar",
+      "Kavun",
+      "Kekik",
+      "Kekikotu (Satureja)",
+      "Kereviz",
+      "Kimyon",
+      "Krizantem (Parthenium)",
+      "Kuşkonmaz",
+      "Lahana",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Maydonoz",
+      "Menekşe (Hercai)",
+      "Mercanköşk (Marjoram)",
+      "Mercanköşk (Oregano)",
+      "Meyva Ağacı",
+      "Nane",
+      "Pancar",
+      "Pancar kökü",
+      "Papatya",
+      "Patates",
+      "Patlıcan",
+      "Pazı",
+      "Petunia",
+      "Pırasa",
+      "Ravent (Rhubarb)",
+      "Rezene",
+      "Salatalık",
+      "Sarımsak",
+      "Scorzonera",
+      "Soğan",
+      "Su teresi (Nasturtium)",
+      "Sümbül (Kedi Nanesi)",
+      "Sweetcorn",
+      "Tagetes",
+      "Turp",
+      "Yeni Zelanda Ispanağı",
+      "Yaban Havucu",
+      "Yaban Turbu",
+      "Yer Lahanası"
+    ],
+    "complex": []
+  },
+  "Çördük": {
+    "unfavorable": [
+      "Turp"
+    ],
+    "favorable": [
+      "Brüksel Lahanası",
+      "Civan perçemi",
+      "Lahana",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Dereotu": {
+    "unfavorable": [
+      "Domates"
+    ],
+    "favorable": [
+      "Bezelye",
+      "Brokoli",
+      "Civan perçemi",
+      "Havuç",
+      "Karnabahar",
+      "Kuşkonmaz",
+      "Lahana",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Pancar",
+      "Pancar kökü",
+      "Patates",
+      "Petunia",
+      "Salatalık",
+      "Soğan",
+      "Sweetcorn",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Domates": {
+    "unfavorable": [
+      "Bezelye",
+      "Biberiye",
+      "Brokoli",
+      "Brüksel Lahanası",
+      "Dereotu",
+      "Karnabahar",
+      "Pancar kökü",
+      "Patates",
+      "Rezene",
+      "Soğan",
+      "Yaban Havucu"
+    ],
+    "favorable": [
+      "Biber",
+      "Civan perçemi",
+      "Fasulye (Frans)",
+      "Fesleğen",
+      "Frenk Salat (Hindiba)",
+      "Havuç",
+      "Hindiba (Forse)",
+      "Hodan",
+      "Ispanak",
+      "Kereviz",
+      "Kuşkonmaz",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Maydonoz",
+      "Nane",
+      "Pancar",
+      "Petunia",
+      "Pırasa",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": [
+      "Frenk Soğanı",
+      "Lahana",
+      "Su teresi (Nasturtium)",
+      "Sweetcorn",
+      "Yer Lahanası"
+    ]
+  },
+  "Enginar": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Petunia",
+      "Sweetcorn",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Fasulye": {
+    "unfavorable": [
+      "Marul",
+      "Pırasa",
+      "Sarımsak"
+    ],
+    "favorable": [
+      "Adaçayı",
+      "Bezelye",
+      "Biberiye",
+      "Civan perçemi",
+      "Havuç",
+      "Kabak",
+      "Karnabahar",
+      "Kekikotu (Satureja)",
+      "Kereviz",
+      "Patates",
+      "Patlıcan",
+      "Petunia",
+      "Salatalık",
+      "Sweetcorn",
+      "Tagetes"
+    ],
+    "complex": [
+      "Lahana",
+      "Soğan"
+    ]
+  },
+  "Fasulye (Broad)": {
+    "unfavorable": [
+      "Frenk Soğanı",
+      "Rezene",
+      "Sarımsak"
+    ],
+    "favorable": [
+      "Adaçayı",
+      "Bezelye",
+      "Biberiye",
+      "Civan perçemi",
+      "Ispanak",
+      "Kabak",
+      "Kekikotu (Satureja)",
+      "Kereviz",
+      "Lahana",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Patates",
+      "Patlıcan",
+      "Petunia",
+      "Salatalık",
+      "Sweetcorn",
+      "Tagetes"
+    ],
+    "complex": [
+      "Soğan"
+    ]
+  },
+  "Fasulye (Frans)": {
+    "unfavorable": [
+      "Frenk Soğanı",
+      "Pırasa",
+      "Rezene",
+      "Sarımsak"
+    ],
+    "favorable": [
+      "Adaçayı",
+      "Bezelye",
+      "Biberiye",
+      "Çilek",
+      "Civan perçemi",
+      "Domates",
+      "Ispanak",
+      "Kabak",
+      "Kekikotu (Satureja)",
+      "Kereviz",
+      "Lahana",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Pancar",
+      "Pancar kökü",
+      "Patates",
+      "Patlıcan",
+      "Pazı",
+      "Petunia",
+      "Ravent (Rhubarb)",
+      "Salatalık",
+      "Sweetcorn",
+      "Tagetes",
+      "Turp",
+      "Yer Lahanası"
+    ],
+    "complex": [
+      "Soğan"
+    ]
+  },
+  "Fasulye (Runner)": {
+    "unfavorable": [
+      "Pırasa",
+      "Rezene",
+      "Soğan"
+    ],
+    "favorable": [
+      "Biberiye",
+      "Çayır marulu",
+      "Civan perçemi",
+      "Frenk Salat (Hindiba)",
+      "Ispanak",
+      "Kabak (Sakız)",
+      "Kekikotu (Satureja)",
+      "Kereviz",
+      "Lahana",
+      "Marul",
+      "Petunia",
+      "Salatalık",
+      "Sarımsak",
+      "Su teresi (Nasturtium)",
+      "Sweetcorn",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": [
+      "Bezelye",
+      "Pancar",
+      "Yer Lahanası"
+    ]
+  },
+  "Fesleğen": {
+    "unfavorable": [],
+    "favorable": [
+      "Biber",
+      "Civan perçemi",
+      "Domates",
+      "Kuşkonmaz",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Frenk Maydonozu": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Petunia",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": []
+  },
+  "Frenk Salat (hindiba)": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Domates",
+      "Fasulye (Runner)",
+      "Havuç",
+      "Marul",
+      "Petunia",
+      "Rezene",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Frenk Soğanı": {
+    "unfavorable": [
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Sarımsak"
+    ],
+    "favorable": [
+      "Biber",
+      "Civan perçemi",
+      "Gül",
+      "Havuç",
+      "Lahana",
+      "Maydonoz",
+      "Meyva Ağacı",
+      "Petunia",
+      "Tagetes",
+      "Yaban Havucu"
+    ],
+    "complex": [
+      "Domates"
+    ]
+  },
+  "Gül": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Frenk Soğanı",
+      "Hodan",
+      "Krizantem (Parthenium)",
+      "Menekşe (Hercai)",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Havuç": {
+    "unfavorable": [
+      "Yaban Havucu"
+    ],
+    "favorable": [
+      "Bezelye",
+      "Biber",
+      "Biberiye",
+      "Civan perçemi",
+      "Dereotu",
+      "Domates",
+      "Fasulye",
+      "Frenk Salat (Hindiba)",
+      "Frenk Soğanı",
+      "Kereviz",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Mercanköşk (Marjoram)",
+      "Pazı",
+      "Petunia",
+      "Pırasa",
+      "Sarımsak",
+      "Scorzonera",
+      "Soğan",
+      "Tagetes"
+    ],
+    "complex": [
+      "Adaçayı",
+      "Turp"
+    ]
+  },
+  "Hindiba (forse)": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Domates",
+      "Lahana",
+      "Petunia",
+      "Pırasa",
+      "Rezene",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Hodan": {
+    "unfavorable": [],
+    "favorable": [
+      "Çilek",
+      "Civan perçemi",
+      "Domates",
+      "Gül",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Ispanak": {
+    "unfavorable": [
+      "Sarımsak"
+    ],
+    "favorable": [
+      "Çilek",
+      "Civan perçemi",
+      "Domates",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Kereviz",
+      "Lahana",
+      "Meyva Ağacı",
+      "Pancar",
+      "Patates",
+      "Petunia",
+      "Ravent (Rhubarb)",
+      "Tagetes",
+      "Turp",
+      "Yer Lahanası"
+    ],
+    "complex": []
+  },
+  "Kabak": {
+    "unfavorable": [
+      "Adaçayı",
+      "Patates"
+    ],
+    "favorable": [
+      "Ayçiçeği",
+      "Bezelye",
+      "Civan perçemi",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Marul",
+      "Mercanköşk (Marjoram)",
+      "Petunia",
+      "Su teresi (Nasturtium)",
+      "Sweetcorn",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": []
+  },
+  "Kabak (sakız)": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Fasulye (Runner)",
+      "Petunia",
+      "Soğan",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Karnabahar": {
+    "unfavorable": [
+      "Bezelye",
+      "Çilek",
+      "Domates",
+      "Patates"
+    ],
+    "favorable": [
+      "Civan perçemi",
+      "Dereotu",
+      "Fasulye",
+      "Kereviz",
+      "Mercanköşk (Oregano)",
+      "Papatya",
+      "Petunia",
+      "Su teresi (Nasturtium)",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Kavun": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Petunia",
+      "Sarımsak",
+      "Sweetcorn",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Kekik": {
+    "unfavorable": [],
+    "favorable": [
+      "Brüksel Lahanası",
+      "Civan perçemi",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": [
+      "Lahana"
+    ]
+  },
+  "Kekikotu (satureja)": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Petunia",
+      "Soğan",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Kereviz": {
+    "unfavorable": [
+      "Buğday",
+      "Patates",
+      "Sweetcorn",
+      "Yaban Havucu"
+    ],
+    "favorable": [
+      "Brokoli",
+      "Civan perçemi",
+      "Domates",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Fesleğen",
+      "Havuç",
+      "Ispanak",
+      "Karnabahar",
+      "Marul",
+      "Petunia",
+      "Pırasa",
+      "Salatalık",
+      "Tagetes",
+      "Yer Lahanası"
+    ],
+    "complex": [
+      "Lahana"
+    ]
+  },
+  "Kimyon": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Patates",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Krizantem (parthenium)": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Gül",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Kuşkonmaz": {
+    "unfavorable": [
+      "Patates",
+      "Sarımsak"
+    ],
+    "favorable": [
+      "Civan perçemi",
+      "Dereotu",
+      "Domates",
+      "Fesleğen",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Maydonoz",
+      "Petunia",
+      "Tagetes",
+      "Yer Lahanası"
+    ],
+    "complex": []
+  },
+  "Lahana": {
+    "unfavorable": [
+      "Mercanköşk (Oregano)"
+    ],
+    "favorable": [
+      "Adaçayı",
+      "Bezelye",
+      "Biberiye",
+      "Çayır marulu",
+      "Civan perçemi",
+      "Çördük",
+      "Dereotu",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Frenk Soğanı",
+      "Hindiba (Forse)",
+      "Ispanak",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Nane",
+      "Pancar",
+      "Papatya",
+      "Pazı",
+      "Petunia",
+      "Pırasa",
+      "Ravent (Rhubarb)",
+      "Salatalık",
+      "Su teresi (Nasturtium)",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": [
+      "Çilek",
+      "Domates",
+      "Fasulye",
+      "Kekik",
+      "Kereviz",
+      "Pancar kökü",
+      "Patates",
+      "Soğan"
+    ]
+  },
+  "Marul": {
+    "unfavorable": [
+      "Fasulye",
+      "Maydonoz",
+      "Pancar kökü",
+      "Yaban Havucu"
+    ],
+    "favorable": [
+      "Bezelye",
+      "Çilek",
+      "Civan perçemi",
+      "Dereotu",
+      "Domates",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Frenk Salat (Hindiba)",
+      "Havuç",
+      "Kabak",
+      "Kereviz",
+      "Kuşkonmaz",
+      "Lahana",
+      "Nane",
+      "Pancar",
+      "Petunia",
+      "Pırasa",
+      "Ravent (Rhubarb)",
+      "Rezene",
+      "Salatalık",
+      "Sarımsak",
+      "Scorzonera",
+      "Soğan",
+      "Sweetcorn",
+      "Tagetes",
+      "Turp",
+      "Yer Lahanası"
+    ],
+    "complex": []
+  },
+  "Marul (Kıvırcık)": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Dereotu",
+      "Domates",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Kuşkonmaz",
+      "Lahana",
+      "Pancar",
+      "Petunia",
+      "Ravent (Rhubarb)",
+      "Rezene",
+      "Sarımsak",
+      "Scorzonera",
+      "Soğan",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": [
+      "Pancar kökü"
+    ]
+  },
+  "Maydonoz": {
+    "unfavorable": [
+      "Marul",
+      "Soğan"
+    ],
+    "favorable": [
+      "Çilek",
+      "Civan perçemi",
+      "Domates",
+      "Frenk Soğanı",
+      "Kuşkonmaz",
+      "Petunia",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": []
+  },
+  "Menekşe (hercai)": {
+    "unfavorable": [],
+    "favorable": [
+      "Ahududu",
+      "Civan perçemi",
+      "Gül",
+      "Meyva Ağacı",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Mercanköşk (marjoram)": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Havuç",
+      "Kabak",
+      "Patlıcan",
+      "Petunia",
+      "Sarımsak",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Mercanköşk (Oregano)": {
+    "unfavorable": [
+      "Brokoli",
+      "Lahana"
+    ],
+    "favorable": [
+      "Civan perçemi",
+      "Karnabahar",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Meyva ağacı": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Frenk Soğanı",
+      "Ispanak",
+      "Menekşe (Hercai)",
+      "Petunia",
+      "Su teresi (Nasturtium)",
+      "Tagetes",
+      "Yeni Zelanda Ispanağı"
+    ],
+    "complex": []
+  },
+  "Nane": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Domates",
+      "Lahana",
+      "Marul",
+      "Patates",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Pancar": {
+    "unfavorable": [],
+    "favorable": [
+      "Bezelye",
+      "Civan perçemi",
+      "Dereotu",
+      "Domates",
+      "Fasulye (Frans)",
+      "Ispanak",
+      "Lahana",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Pazı",
+      "Petunia",
+      "Soğan",
+      "Tagetes"
+    ],
+    "complex": [
+      "Fasulye (Runner)"
+    ]
+  },
+  "Pancar kökü": {
+    "unfavorable": [
+      "Domates",
+      "Fasulye (Runner)",
+      "Marul",
+      "Pırasa",
+      "Sweetcorn"
+    ],
+    "favorable": [
+      "Çilek",
+      "Civan perçemi",
+      "Dereotu",
+      "Fasulye (Frans)",
+      "Petunia",
+      "Salatalık",
+      "Soğan",
+      "Tagetes",
+      "Yer Lahanası"
+    ],
+    "complex": [
+      "Lahana",
+      "Marul (Kıvırcık)"
+    ]
+  },
+  "Papatya": {
+    "unfavorable": [],
+    "favorable": [
+      "Brokoli",
+      "Civan perçemi",
+      "Karnabahar",
+      "Lahana",
+      "Petunia",
+      "Soğan",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Patates": {
+    "unfavorable": [
+      "Ahududu",
+      "Ayçiçeği",
+      "Bezelye",
+      "Domates",
+      "Kabak",
+      "Karnabahar",
+      "Kereviz",
+      "Kuşkonmaz",
+      "Pancar kökü",
+      "Salatalık",
+      "Soğan",
+      "Su teresi (Nasturtium)"
+    ],
+    "favorable": [
+      "Brüksel Lahanası",
+      "Civan perçemi",
+      "Dereotu",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Ispanak",
+      "Kimyon",
+      "Nane",
+      "Petunia",
+      "Sweetcorn",
+      "Tagetes",
+      "Yaban Turbu",
+      "Yer Lahanası"
+    ],
+    "complex": [
+      "Lahana",
+      "Patlıcan"
+    ]
+  },
+  "Patlıcan": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Petunia",
+      "Sümbül (Kedi Nanesi)",
+      "Sweetcorn",
+      "Tagetes"
+    ],
+    "complex": [
+      "Patates"
+    ]
+  },
+  "Pazı": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Fasulye (Frans)",
+      "Havuç",
+      "Lahana",
+      "Pancar",
+      "Petunia",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": []
+  },
+  "Petunia": {
+    "unfavorable": [],
+    "favorable": [
+      "Adaçayı",
+      "Ahududu",
+      "Ayçiçeği",
+      "Bezelye",
+      "Biber",
+      "Biberiye",
+      "Brokoli",
+      "Brüksel Lahanası",
+      "Buğday",
+      "Çayır marulu",
+      "Çilek",
+      "Civan perçemi",
+      "Çördük",
+      "Dereotu",
+      "Domates",
+      "Enginar",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Fesleğen",
+      "Frenk Maydonozu",
+      "Frenk Salat (Hindiba)",
+      "Frenk Soğanı",
+      "Gül",
+      "Havuç",
+      "Hindiba (Forse)",
+      "Hodan",
+      "Ispanak",
+      "Kabak",
+      "Kabak (Sakız)",
+      "Karnabahar",
+      "Kavun",
+      "Kekik",
+      "Kekikotu (Satureja)",
+      "Kereviz",
+      "Kimyon",
+      "Krizantem (Parthenium)",
+      "Kuşkonmaz",
+      "Lahana",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Maydonoz",
+      "Menekşe (Hercai)",
+      "Mercanköşk (Marjoram)",
+      "Mercanköşk (Oregano)",
+      "Meyva Ağacı",
+      "Nane",
+      "Pancar",
+      "Pancar kökü",
+      "Papatya",
+      "Patates",
+      "Patlıcan",
+      "Pazı",
+      "Pırasa",
+      "Ravent (Rhubarb)",
+      "Rezene",
+      "Salatalık",
+      "Sarımsak",
+      "Scorzonera",
+      "Soğan",
+      "Su teresi (Nasturtium)",
+      "Sümbül (Kedi Nanesi)",
+      "Sweetcorn",
+      "Tagetes",
+      "Turp",
+      "Yeni Zelanda Ispanağı",
+      "Yaban Havucu",
+      "Yaban Turbu",
+      "Yer Lahanası"
+    ],
+    "complex": []
+  },
+  "Pırasa": {
+    "unfavorable": [
+      "Bezelye",
+      "Fasulye",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Pancar kökü",
+      "Sarımsak",
+      "Soğan"
+    ],
+    "favorable": [
+      "Biber",
+      "Çayır marulu",
+      "Çilek",
+      "Civan perçemi",
+      "Domates",
+      "Havuç",
+      "Hindiba (Forse)",
+      "Kereviz",
+      "Lahana",
+      "Marul",
+      "Petunia",
+      "Scorzonera",
+      "Tagetes",
+      "Yer Lahanası"
+    ],
+    "complex": []
+  },
+  "Ravent (rhubarb)": {
+    "unfavorable": [
+      "Sarımsak"
+    ],
+    "favorable": [
+      "Çayır marulu",
+      "Civan perçemi",
+      "Fasulye (Frans)",
+      "Ispanak",
+      "Lahana",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Rezene": {
+    "unfavorable": [
+      "Domates",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)"
+    ],
+    "favorable": [
+      "Adaçayı",
+      "Bezelye",
+      "Civan perçemi",
+      "Frenk Salat (Hindiba)",
+      "Hindiba (Forse)",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Petunia",
+      "Salatalık",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Salatalık": {
+    "unfavorable": [
+      "Patates",
+      "Yer Lahanası"
+    ],
+    "favorable": [
+      "Bezelye",
+      "Civan perçemi",
+      "Dereotu",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Kereviz",
+      "Lahana",
+      "Marul",
+      "Pancar kökü",
+      "Petunia",
+      "Rezene",
+      "Sarımsak",
+      "Soğan",
+      "Su teresi (Nasturtium)",
+      "Sweetcorn",
+      "Tagetes"
+    ],
+    "complex": [
+      "Turp"
+    ]
+  },
+  "Sarımsak": {
+    "unfavorable": [
+      "Bezelye",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)"
+    ],
+    "favorable": [
+      "Ahududu",
+      "Biber",
+      "Biberiye",
+      "Çilek",
+      "Civan perçemi",
+      "Domates",
+      "Havuç",
+      "Meyva Ağacı",
+      "Pancar kökü",
+      "Petunia",
+      "Salatalık",
+      "Tagetes"
+    ],
+    "complex": [
+      "Lahana"
+    ]
+  },
+  "Scorzonera": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Havuç",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Petunia",
+      "Pırasa",
+      "Soğan",
+      "Tagetes",
+      "Yer Lahanası"
+    ],
+    "complex": []
+  },
+  "Soğan": {
+    "unfavorable": [
+      "Bezelye",
+      "Domates",
+      "Fasulye (Runner)",
+      "Maydonoz",
+      "Patates",
+      "Pırasa",
+      "Yaban Havucu"
+    ],
+    "favorable": [
+      "Biber",
+      "Çayır marulu",
+      "Çilek",
+      "Civan perçemi",
+      "Dereotu",
+      "Havuç",
+      "Kabak (Sakız)",
+      "Kekikotu (Satureja)",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Pancar",
+      "Pancar kökü",
+      "Papatya",
+      "Petunia",
+      "Salatalık",
+      "Scorzonera",
+      "Tagetes",
+      "Yer Lahanası"
+    ],
+    "complex": [
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Lahana"
+    ]
+  },
+  "Su teresi (Nasturtium)": {
+    "unfavorable": [
+      "Brokoli",
+      "Brüksel Lahanası",
+      "Patates"
+    ],
+    "favorable": [
+      "Civan perçemi",
+      "Fasulye (Runner)",
+      "Kabak",
+      "Lahana",
+      "Meyva Ağacı",
+      "Petunia",
+      "Salatalık",
+      "Tagetes"
+    ],
+    "complex": [
+      "Domates",
+      "Karnabahar",
+      "Turp"
+    ]
+  },
+  "Sümbül (kedi nanesi)": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Patlıcan",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Sweetcorn": {
+    "unfavorable": [
+      "Kereviz",
+      "Pancar kökü"
+    ],
+    "favorable": [
+      "Ayçiçeği",
+      "Bezelye",
+      "Civan perçemi",
+      "Dereotu",
+      "Domates",
+      "Enginar",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Kabak",
+      "Kavun",
+      "Marul",
+      "Patates",
+      "Petunia",
+      "Salatalık",
+      "Tagetes",
+      "Turp",
+      "Yaban Havucu"
+    ],
+    "complex": []
+  },
+  "Tagetes": {
+    "unfavorable": [],
+    "favorable": [
+      "Adaçayı",
+      "Ahududu",
+      "Ayçiçeği",
+      "Bezelye",
+      "Biber",
+      "Biberiye",
+      "Brokoli",
+      "Brüksel Lahanası",
+      "Buğday",
+      "Çayır marulu",
+      "Çilek",
+      "Civan perçemi",
+      "Çördük",
+      "Dereotu",
+      "Domates",
+      "Enginar",
+      "Fasulye",
+      "Fasulye (Broad)",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Fesleğen",
+      "Frenk Maydonozu",
+      "Frenk Salat (Hindiba)",
+      "Frenk Soğanı",
+      "Gül",
+      "Havuç",
+      "Hindiba (Forse)",
+      "Hodan",
+      "Ispanak",
+      "Kabak",
+      "Kabak (Sakız)",
+      "Karnabahar",
+      "Kavun",
+      "Kekik",
+      "Kekikotu (Satureja)",
+      "Kereviz",
+      "Kimyon",
+      "Krizantem (Parthenium)",
+      "Kuşkonmaz",
+      "Lahana",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Maydonoz",
+      "Menekşe (Hercai)",
+      "Mercanköşk (Marjoram)",
+      "Mercanköşk (Oregano)",
+      "Meyva Ağacı",
+      "Nane",
+      "Pancar",
+      "Pancar kökü",
+      "Papatya",
+      "Patates",
+      "Patlıcan",
+      "Pazı",
+      "Petunia",
+      "Pırasa",
+      "Ravent (Rhubarb)",
+      "Rezene",
+      "Salatalık",
+      "Sarımsak",
+      "Scorzonera",
+      "Soğan",
+      "Su teresi (Nasturtium)",
+      "Sümbül (Kedi Nanesi)",
+      "Sweetcorn",
+      "Turp",
+      "Yeni Zelanda Ispanağı",
+      "Yaban Havucu",
+      "Yaban Turbu",
+      "Yer Lahanası"
+    ],
+    "complex": []
+  },
+  "Turp": {
+    "unfavorable": [
+      "Çördük"
+    ],
+    "favorable": [
+      "Çilek",
+      "Civan perçemi",
+      "Domates",
+      "Fasulye (Frans)",
+      "Fasulye (Runner)",
+      "Frenk Maydonozu",
+      "Havuç",
+      "Ispanak",
+      "Kabak",
+      "Kavun",
+      "Lahana",
+      "Marul",
+      "Marul (Kıvırcık)",
+      "Maydonoz",
+      "Pazı",
+      "Petunia",
+      "Sweetcorn",
+      "Tagetes",
+      "Yer Lahanası"
+    ],
+    "complex": [
+      "Bezelye",
+      "Salatalık",
+      "Su teresi (Nasturtium)"
+    ]
+  },
+  "Yeni Zelanda Ispanağı": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Meyva Ağacı",
+      "Petunia",
+      "Tagetes",
+      "Yaban Turbu"
+    ],
+    "complex": []
+  },
+  "Yaban Havucu": {
+    "unfavorable": [
+      "Domates",
+      "Havuç",
+      "Kereviz",
+      "Marul",
+      "Soğan"
+    ],
+    "favorable": [
+      "Civan perçemi",
+      "Frenk Soğanı",
+      "Petunia",
+      "Sweetcorn",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Yaban Turbu": {
+    "unfavorable": [],
+    "favorable": [
+      "Civan perçemi",
+      "Meyva Ağacı",
+      "Patates",
+      "Petunia",
+      "Tagetes"
+    ],
+    "complex": []
+  },
+  "Yer Lahanası": {
+    "unfavorable": [
+      "Salatalık"
+    ],
+    "favorable": [
+      "Bezelye",
+      "Çayır marulu",
+      "Civan perçemi",
+      "Fasulye (Frans)",
+      "Ispanak",
+      "Kereviz",
+      "Kuşkonmaz",
+      "Marul",
+      "Pancar kökü",
+      "Patates",
+      "Petunia",
+      "Pırasa",
+      "Scorzonera",
+      "Soğan",
+      "Tagetes",
+      "Turp"
+    ],
+    "complex": [
+      "Domates",
+      "Fasulye (Runner)",
+      "Sarımsak"
+    ]
+  }
+}
